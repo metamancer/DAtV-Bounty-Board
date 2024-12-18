@@ -1,2 +1,2 @@
 # frostytoolsuite
-Frosty 2.0
+Modders Resource Library
