@@ -9,7 +9,7 @@ We use releases to group the resources of files to a single project, i.e. the [`
 
 
 ## Applications Used
-- wavebend's [FrostyEditor](https://github.com/FrostyToolsuite/FrostyToolsuite)
+- wavebend's [FrostyEditor](https://github.com/wavebend/FrostyToolsuite/releases)
 - Photoshop
 - Substance Painter
 - Blender
