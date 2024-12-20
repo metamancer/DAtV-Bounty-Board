@@ -1,8 +1,0 @@
-# .gitattributes file for using Git LFS with .spp and .psd files
-
-# Use Git LFS for Adobe Photoshop and Substance Painter files
-*.psd filter=lfs diff=lfs merge=lfs -text
-*.spp filter=lfs diff=lfs merge=lfs -text
-
-# File Size limit 1GB per file
-# Possible bandwidth quota limit may impact file uploads and downloads
