@@ -1,5 +1,10 @@
 > [!TIP]
-> Check out the [Bounty Board (Discussions)](https://github.com/metamancer/DAVModdersResource/discussions) to submit a [Mod Request](https://github.com/metamancer/DAVModdersResource/discussions/categories/mod-requests), setup a modder profile if you're a [Modder for Hire](https://github.com/metamancer/DAVModdersResource/discussions/categories/for-hire), showcase your projects, or even start Q&A.
+> Check out the [Bounty Board (Discussions)](https://github.com/metamancer/DAVModdersResource/discussions)
+
+# The Bounty Board
+* Submit a [Mod Request](https://github.com/metamancer/DAVModdersResource/discussions/categories/mod-requests)
+* Create a [Modder for Hire](https://github.com/metamancer/DAVModdersResource/discussions/categories/for-hire) Profile
+
 
 ## Modders Resource Library
 This repository stores project files for mods, such as recolors or mesh edits.
