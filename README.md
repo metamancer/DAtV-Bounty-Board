@@ -1,5 +1,5 @@
 > [!TIP]
-> Check out the [Bounty Board (Discussions)](https://github.com/metamancer/DAVModdersResource/discussions)
+> Check out our [Dragon Age Veilguard Frosty Modding Discord Server](https://discord.gg/pKF9ReTdAh)
 
 # The Bounty Board
 * Submit a [Mod Request](https://github.com/metamancer/DAVModdersResource/discussions/categories/mod-requests)
